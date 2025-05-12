@@ -23,6 +23,7 @@ To build this project, you will need the following components:
    - Connect one leg of the LDR to the Arduino's 5V pin.
    - Connect the other leg of the LDR to analog pin A0 and to a 10kΩ resistor.
    - Connect the other end of the 10kΩ resistor to the Arduino's GND pin.
+
 ![image](https://github.com/user-attachments/assets/8c2df6ab-e960-4210-9516-9a190a825fad)
 
 > **Warning**: Double-check wiring, especially the LDR and resistor connections, to avoid damaging components.
